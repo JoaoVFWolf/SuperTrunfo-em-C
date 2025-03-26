@@ -1,4 +1,5 @@
 Trabalho que realizei na faculdade com o objetivo de criar um Super Trunfo básico em C!
+
 Logo à baixo está o anunciado do exercício.
 
 
